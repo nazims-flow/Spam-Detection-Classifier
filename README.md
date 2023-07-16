@@ -44,7 +44,6 @@ Non-Spam Messages:
 ![image](https://github.com/nazims-flow/Spam-Detection-Classifier/assets/84512979/fb2945f6-b160-4c1b-b09e-41e675bad62f)
 ![image](https://github.com/nazims-flow/Spam-Detection-Classifier/assets/84512979/d6270822-be58-4b78-bc2b-c3686bf9d84d)
 
-Add line breaks accordingly for the README of the GitHub repository.
 
 
 

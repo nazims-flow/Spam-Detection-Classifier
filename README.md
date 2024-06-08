@@ -2,8 +2,6 @@
 # Spam-Detection-Classifier
 Spam Detection Classifier: Identify spam from legitimate messages in emails, texts &amp; comments. Streamlined solution for safer communication. #ML #NLP
 
-This project is done under the internship as a Machine Learning Intern in LearnSamsher.
-
 **KEY FEATURES**
 - Supervised Learning Approach: The classifier utilizes labeled datasets to train the model effectively, differentiating between spam and non-spam messages.
 - Text Preprocessing: The repository offers robust text preprocessing techniques to clean, tokenize, and stem the text data, enhancing feature extraction capabilities.
